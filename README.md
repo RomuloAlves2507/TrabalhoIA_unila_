@@ -1,2 +1,2 @@
 # TrabalhoIA_unila_
-Código desenvolvido para trabalho de Inteligência Artificial para Engenharia. Consiste em treinar uma ML para realizar a análise preditiva de dados de sensores de uma máquina.
+Modelo de Machine Learning para monitoramento de condição e diagnóstico de falhas em um sistema hidráulico a partir de dados de sensores. Projeto da disciplina de IA para Engenharia na Universidade Federal da Integração Latino-Americana (UNILA).
